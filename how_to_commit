@@ -4,3 +4,8 @@ I'm a dumbass so i am storing here the method to commit to git
 git clone https://github.com/YukiZensho/StartThingy
 
 2. Commit thingy to branch
+	to see what's been changed
+git status
+	to name the commit*
+git commit -a -m "NAME OF COMMIT"
+	
