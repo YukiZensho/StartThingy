@@ -13,4 +13,4 @@ git add .
 	to name the commit*
 git commit -a -m "NAME OF COMMIT"
 	push
-git push origin master
+git push
