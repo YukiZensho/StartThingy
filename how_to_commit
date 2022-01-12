@@ -2,10 +2,15 @@ I'm a dumbass so i am storing here the method to commit to git
 
 1. Download thingy
 git clone https://github.com/YukiZensho/StartThingy
+	or
+git pull
 
 2. Commit thingy to branch
 	to see what's been changed
 git status
+	may be needed
+git add .
 	to name the commit*
 git commit -a -m "NAME OF COMMIT"
-	
+	push
+git push origin master
