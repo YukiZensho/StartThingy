@@ -1,7 +1,7 @@
 # StartThingy
 My terminal start thingy that makes the opening of a terminal look *NICE*, tho its made by me, Yuki
 # How to make it work
-If you want it to work on you have to fist compile it with
+If you want it to work on you have to first compile it with
 ``` c++ code.cpp -o StartThingy ```
 and move the executable resulted to a place where it wont be deleted by mistake and its not obstructive (i for example have a folder in home specifically for random executables).
 
